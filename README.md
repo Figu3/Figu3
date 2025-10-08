@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Figu3 founder of Paladin.vote and governance geek
-- 👀 I’m interested in Activism in DeFi
-- 🌱 I’m currently learning some more Solidity 
+- 👋 Hi, I’m @Figu3 founder of Trevee 
+- Chaotic Neutral
+- Foolish dreams at the service of great ideals 
+- Coding a bit more everyday 
 
 
